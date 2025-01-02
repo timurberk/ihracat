@@ -8,4 +8,21 @@ show_excerpts: true
 minima:
   date_format: "%Y-%m-%d"
 
-  
+
+twitter_username: timurberk_com
+github_username:  timurberk
+#dribbble_username: jekyll
+facebook_username: timurberk
+flickr_username: timur
+instagram_username: timurberk_com
+linkedin_username: timurberk
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+rss: rss
+
+#mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
