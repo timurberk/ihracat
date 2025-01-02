@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Hakkımda"
+title: Hakkımda
 permalink: /about/
+---
 
-# Timur BERK
+Bu blogu ihracatla ilgili notlarımı tutmak ve başka ihracatçılarla paylaşmak için oluşturdum. Benim hakkımda daha fazla bilgi edinmek isterseniz [şu siteyi](https://timurberk.com/) ziyaret edebilirsiniz.
