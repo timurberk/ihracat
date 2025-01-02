@@ -26,3 +26,8 @@ rss: rss
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
+
+
+header_pages:
+  - about.md
+#  - portfolio.md
